@@ -1,150 +1,191 @@
-# # 👋 Olá, eu sou Paulo Jean Silva
+# Paulo Jean Silva
 
-<div align="center">
+## Tech Lead | Software Engineer | Platform Engineer | Solution Architect
 
-### Tech Lead | Software Engineer | Platform Engineer | Solution Architect
-
-Construindo software, plataformas e soluções escaláveis há mais de 15 anos.
-
-</div>
+São Paulo, Brasil
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Sou profissional de tecnologia com mais de 15 anos de experiência em desenvolvimento de software, arquitetura de soluções, cloud computing e liderança técnica.
+Profissional de tecnologia com mais de 17 anos de experiência em desenvolvimento de software, arquitetura de soluções, plataformas digitais e liderança técnica.
 
-Atualmente atuo como **Tech Lead no Itaú Unibanco**, liderando iniciativas de engenharia de software para canais digitais, apoiando decisões arquiteturais, evolução tecnológica e desenvolvimento de equipes.
+Minha trajetória começou no desenvolvimento web, passando por tecnologias voltadas para acessibilidade, SEO e experiência digital. Ao longo dos anos evoluí para desenvolvimento backend, arquitetura corporativa, cloud computing, engenharia de plataformas e liderança de equipes de engenharia.
 
-Ao longo da carreira passei por empresas como:
+Atualmente atuo como Tech Lead no Itaú Unibanco, liderando iniciativas de engenharia de software e apoiando decisões arquiteturais para canais digitais.
 
-- Itaú Unibanco
-- Mercado Livre
-- Cognizant
-- Everis
-
-Minha trajetória começou no desenvolvimento web e evoluiu para arquitetura, cloud, plataformas digitais e liderança técnica.
+Tenho experiência em ambientes corporativos de grande escala, sistemas distribuídos, modernização tecnológica e desenvolvimento de times.
 
 ---
 
-## 💼 Experiência
+## Experiência Profissional
 
-### Tech Lead — Itaú Unibanco
-📍 São Paulo - Brasil
+### Itaú Unibanco
 
-- Liderança técnica de squads de engenharia
-- Arquitetura de soluções
-- Desenvolvimento de plataformas digitais
-- Mentoria de desenvolvedores
-- Apoio à tomada de decisão técnica
+#### Tech Lead – Canais Agro
+Abr 2025 – Atual
 
-### Software Engineer Senior — Itaú Unibanco
+Responsável pela liderança técnica de iniciativas de engenharia de software, definição de arquitetura, evolução tecnológica e suporte às equipes de desenvolvimento.
 
-- Desenvolvimento de soluções corporativas
-- APIs e microsserviços
-- Integrações e sistemas distribuídos
-- Cloud e observabilidade
+#### Engenheiro de Software Sênior
+Abr 2021 – Abr 2025
 
-### Solution Architect — Cognizant
+Atuação em desenvolvimento de soluções corporativas, integrações, sistemas distribuídos e evolução de plataformas digitais.
 
-- Arquitetura de soluções corporativas
-- Definição de padrões técnicos
-- Integrações de sistemas
+#### Tech Lead
+Dez 2022 – Fev 2024
 
-### Software Development — Mercado Livre
-
-- Desenvolvimento de soluções escaláveis
-- Participação em iniciativas de alta disponibilidade
+Liderança técnica de squads de engenharia e apoio à tomada de decisões estratégicas.
 
 ---
 
-## 🛠️ Tecnologias
+### Mercado Livre
 
-### Cloud & Platform
+#### Analista de Desenvolvimento
+Out 2020 – Abr 2021
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Datadog](https://img.shields.io/badge/Datadog-Observability-violet)
-
-### Desenvolvimento
-
-![Java](https://img.shields.io/badge/Java-Backend-red)
-![Python](https://img.shields.io/badge/Python-Development-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Javascript-green)
-
-### Arquitetura
-
-- Microservices
-- Event Driven Architecture
-- APIs REST
-- Distributed Systems
-- Design Patterns
-- Clean Architecture
+Participação no desenvolvimento de soluções escaláveis para uma das maiores plataformas de comércio eletrônico da América Latina.
 
 ---
 
-## 📊 Atualmente estudando
+### Cognizant
+
+#### Arquiteto de Soluções Técnicas
+Ago 2019 – Out 2020
+
+Definição de arquitetura, integração entre sistemas e apoio técnico a projetos corporativos.
+
+---
+
+### Everis
+
+#### Analista de Sistemas Sênior
+Abr 2017 – Ago 2019
+
+Atuação em projetos corporativos de transformação digital e desenvolvimento de software.
+
+---
+
+### Digisystem
+
+#### Programador C#
+Fev 2013 – Mar 2017
+
+Desenvolvimento de aplicações corporativas utilizando tecnologias Microsoft.
+
+---
+
+### Desenvolvimento Web (2008–2013)
+
+Experiência em desenvolvimento de portais, sites e aplicações web com foco em:
+
+- HTML
+- CSS
+- Javascript
+- JQuery
+- Ajax
+- Wordpress
+- Drupal
+- SEO
+- Acessibilidade
+- Web Standards
+- APIs Google
+
+Empresas:
+
+- SIB – Solution in Box
+- Agência Click Isobar
+- Giovanni DraftFCB
+- Garage Interactive Marketing
+
+---
+
+## Competências
+
+### Liderança e Comunicação
+
+- Liderança Técnica
+- Oratória
+- Comunicação
+- Mentoria
+- Gestão de Stakeholders
+
+### Arquitetura e Engenharia
+
+- Arquitetura de Soluções
+- Engenharia de Software
+- Sistemas Distribuídos
+- APIs
+- Microsserviços
+- Integrações
+
+### Cloud & Plataforma
+
+- AWS
+- Kubernetes
+- Terraform
+- Observabilidade
+- Datadog
+
+### Dados e IA
 
 - Data Analytics
 - Machine Learning
-- Data Engineering
-- Arquitetura Corporativa
-- Inteligência Artificial aplicada à Engenharia de Software
+- Engenharia de Dados
+- Desenvolvimento de Chatbots
 
 ---
 
-## 🎓 Formação
+## Formação Acadêmica
 
 ### FIAP
 Machine Learning
+2026 – 2027
 
 ### FIAP
 Software Architecture
+2023 – 2024
 
 ### Universidade Estácio de Sá
 Pós-graduação em Arquitetura de Sistemas em Cloud
+2020 – 2021
 
 ### Universidade Estácio de Sá
 Pós-graduação em Engenharia de Software
+2015 – 2016
 
 ### Faculdades Torricelli
 Bacharelado em Sistemas de Informação
+2004 – 2007
 
 ---
 
-## 🏆 Certificações
+## Certificações
 
 - Datadog Power User
 - Troubleshooting com Datadog
-- Qualidade em Mudanças
+- Curso de Kubernetes
 - Produtividade Inteligente
+- Qualidade em Mudanças (Trained)
 
 ---
 
-## 🌱 Objetivos
+## Idiomas
 
-- Evoluir para Especialista em Engenharia de Software
-- Aprofundar conhecimentos em Dados e Analytics
-- Expandir atuação em Arquitetura Corporativa
-- Compartilhar conhecimento através de projetos e artigos técnicos
-
----
-
-## 🚴 Fora do código
-
-- Ciclismo
-- Música
-- Tecnologia
-- Corinthians ⚽
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês
+- 🇪🇸 Espanhol
+- 🇮🇹 Italiano (Básico)
 
 ---
 
-## 📫 Contato
+## Interesses
 
-📧 paulojeanalves@gmail.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/paulojeanalvesdasilva
-
-🐙 GitHub  
-https://github.com/Milhousepaulojean
+- Arquitetura de Software
+- Cloud Computing
+- Engenharia de Dados
+- Data Analytics
+- Machine Learning
+- Inteligência Artificial
+- Observabilidade
+- Liderança Técnica
