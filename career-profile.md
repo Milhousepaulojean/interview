@@ -1,166 +1,217 @@
 # Paulo Jean Silva
 
-## Tech Lead | Software Engineer | Platform Engineer | Solution Architect
+### Tech Lead | Engenheiro de Software & Plataforma | Arquiteto de Soluções | Desenvolvedor
 
-São Paulo, Brasil
+📍 São Paulo, SP - Brasil
 
 ---
 
-## Sobre mim
+## 👋 Sobre
 
 Profissional de tecnologia com mais de 17 anos de experiência em desenvolvimento de software, arquitetura de soluções, plataformas digitais e liderança técnica.
 
-Minha trajetória começou no desenvolvimento web, passando por tecnologias voltadas para acessibilidade, SEO e experiência digital. Ao longo dos anos evoluí para desenvolvimento backend, arquitetura corporativa, cloud computing, engenharia de plataformas e liderança de equipes de engenharia.
+Atualmente atuo como **Tech Lead no Itaú Unibanco**, liderando iniciativas de engenharia de software para canais digitais e apoiando decisões arquiteturais que contribuem para a evolução tecnológica dos produtos e das equipes.
 
-Atualmente atuo como Tech Lead no Itaú Unibanco, liderando iniciativas de engenharia de software e apoiando decisões arquiteturais para canais digitais.
+Minha trajetória começou no desenvolvimento web e evoluiu naturalmente para engenharia de software, arquitetura corporativa, cloud computing e liderança técnica, sempre buscando aprendizado contínuo e adaptação às transformações do mercado.
 
-Tenho experiência em ambientes corporativos de grande escala, sistemas distribuídos, modernização tecnológica e desenvolvimento de times.
+Ao longo da carreira tive a oportunidade de atuar em empresas de diferentes segmentos e escalas, contribuindo para produtos digitais, sistemas corporativos e iniciativas estratégicas de tecnologia.
 
 ---
 
-## Experiência Profissional
+## 🚀 Resumo da Carreira
+
+```text
+2007 → Assistente de Programação
+2008 → Programador HTML
+2013 → Programador C#
+2017 → Analista de Sistemas
+2019 → Arquiteto de Soluções
+2021 → Engenheiro de Software Sênior
+2025 → Tech Lead
+```
+
+---
+
+## 💼 Experiência Profissional
 
 ### Itaú Unibanco
 
-#### Tech Lead – Canais Agro
+**Tech Lead – Canais Agro**  
 Abr 2025 – Atual
 
-Responsável pela liderança técnica de iniciativas de engenharia de software, definição de arquitetura, evolução tecnológica e suporte às equipes de desenvolvimento.
-
-#### Engenheiro de Software Sênior
+**Engenheiro de Software Sênior**  
 Abr 2021 – Abr 2025
 
-Atuação em desenvolvimento de soluções corporativas, integrações, sistemas distribuídos e evolução de plataformas digitais.
-
-#### Tech Lead
+**Tech Lead**  
 Dez 2022 – Fev 2024
-
-Liderança técnica de squads de engenharia e apoio à tomada de decisões estratégicas.
 
 ---
 
 ### Mercado Livre
 
-#### Analista de Desenvolvimento
+**Analista de Desenvolvimento**  
 Out 2020 – Abr 2021
-
-Participação no desenvolvimento de soluções escaláveis para uma das maiores plataformas de comércio eletrônico da América Latina.
 
 ---
 
 ### Cognizant
 
-#### Arquiteto de Soluções Técnicas
+**Arquiteto de Soluções Técnicas**  
 Ago 2019 – Out 2020
-
-Definição de arquitetura, integração entre sistemas e apoio técnico a projetos corporativos.
 
 ---
 
 ### Everis
 
-#### Analista de Sistemas Sênior
+**Analista de Sistemas Sênior**  
 Abr 2017 – Ago 2019
 
-Atuação em projetos corporativos de transformação digital e desenvolvimento de software.
+---
+
+### Itaú
+
+**Consultor de TI**  
+Abr 2017 – Out 2020
 
 ---
 
 ### Digisystem
 
-#### Programador C#
+**Programador C#**  
 Fev 2013 – Mar 2017
-
-Desenvolvimento de aplicações corporativas utilizando tecnologias Microsoft.
 
 ---
 
-### Desenvolvimento Web (2008–2013)
+### SIB – Solution in Box
 
-Experiência em desenvolvimento de portais, sites e aplicações web com foco em:
+**Programador HTML Pleno**  
+Ago 2010 – Fev 2013
+
+Atuação com:
 
 - HTML
 - CSS
 - Javascript
 - JQuery
 - Ajax
+- SEO
 - Wordpress
 - Drupal
-- SEO
+- APIs Google
 - Acessibilidade
 - Web Standards
-- APIs Google
-
-Empresas:
-
-- SIB – Solution in Box
-- Agência Click Isobar
-- Giovanni DraftFCB
-- Garage Interactive Marketing
 
 ---
 
-## Competências
+### Agência Click Isobar
 
-### Liderança e Comunicação
+**Desenvolvedor Web Pleno**  
+Dez 2010 – Mai 2011
+
+---
+
+### Giovanni DraftFCB
+
+**Programador HTML**  
+Jul 2009 – Ago 2010
+
+---
+
+### Garage Interactive Marketing
+
+**Programador HTML Jr**  
+Mai 2008 – Jul 2009
+
+---
+
+### TV1
+
+**Desenvolvedor**  
+2009
+
+---
+
+### Sinc
+
+**Assistente de Programação**  
+2007 – 2008
+
+---
+
+## 🛠️ Competências
+
+### Liderança & Comunicação
 
 - Liderança Técnica
-- Oratória
 - Comunicação
+- Oratória
 - Mentoria
-- Gestão de Stakeholders
+- Colaboração entre equipes
 
-### Arquitetura e Engenharia
+### Arquitetura & Engenharia
 
 - Arquitetura de Soluções
 - Engenharia de Software
-- Sistemas Distribuídos
-- APIs
-- Microsserviços
-- Integrações
+- Desenvolvimento de Sistemas
+- Integração de Sistemas
+- Sistemas Corporativos
+- Desenvolvimento Web
 
-### Cloud & Plataforma
+### Desenvolvimento
 
-- AWS
-- Kubernetes
-- Terraform
-- Observabilidade
-- Datadog
+- C#
+- .NET
+- HTML
+- CSS
+- Javascript
+- JQuery
+- Ajax
 
-### Dados e IA
+### Plataformas Digitais
 
-- Data Analytics
-- Machine Learning
-- Engenharia de Dados
+- SEO
+- Wordpress
+- Drupal
+- APIs Google
+- Acessibilidade
+- Web Standards
+
+### Inovação
+
 - Desenvolvimento de Chatbots
 
 ---
 
-## Formação Acadêmica
+## 🎓 Formação Acadêmica
 
 ### FIAP
-Machine Learning
+
+**Machine Learning**  
 2026 – 2027
 
 ### FIAP
-Software Architecture
+
+**Software Architecture**  
 2023 – 2024
 
 ### Universidade Estácio de Sá
-Pós-graduação em Arquitetura de Sistemas em Cloud
+
+**Pós-graduação em Arquitetura de Sistemas em Cloud**  
 2020 – 2021
 
 ### Universidade Estácio de Sá
-Pós-graduação em Engenharia de Software
+
+**Pós-graduação em Engenharia de Software**  
 2015 – 2016
 
 ### Faculdades Torricelli
-Bacharelado em Sistemas de Informação
+
+**Bacharelado em Sistemas de Informação**  
 2004 – 2007
 
 ---
 
-## Certificações
+## 🏆 Certificações
 
 - Datadog Power User
 - Troubleshooting com Datadog
@@ -170,22 +221,63 @@ Bacharelado em Sistemas de Informação
 
 ---
 
-## Idiomas
+## 🌎 Idiomas
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês
-- 🇪🇸 Espanhol
-- 🇮🇹 Italiano (Básico)
+| Idioma | Nível |
+|---------|---------|
+| Português | Nativo |
+| Inglês | Profissional |
+| Espanhol | Profissional |
+| Italiano | Básico |
 
 ---
 
-## Interesses
+## 🎯 Áreas de Interesse
 
-- Arquitetura de Software
+- Engenharia de Software
+- Arquitetura de Soluções
 - Cloud Computing
-- Engenharia de Dados
+- Plataformas Digitais
 - Data Analytics
 - Machine Learning
 - Inteligência Artificial
-- Observabilidade
 - Liderança Técnica
+- Engenharia de Dados
+
+---
+
+## 🚴 Além da Tecnologia
+
+Acredito que aprendizado contínuo, curiosidade e equilíbrio são fundamentais para uma carreira sustentável em tecnologia.
+
+Fora do ambiente profissional, gosto de dedicar meu tempo a:
+
+- 🚴 Ciclismo e viagens de bicicleta
+- 🎮 Games e entretenimento digital
+- 🎸 Música e estudo de instrumentos
+- 📚 Leitura sobre tecnologia, liderança, filosofia e desenvolvimento pessoal
+- ⚽ Futebol, especialmente acompanhando o Corinthians
+- 👨‍👩‍👧 Tempo de qualidade com a família
+- 🤖 Exploração de novas tecnologias, inteligência artificial e inovação
+
+Esses interesses complementam minha atuação profissional, estimulando criatividade, disciplina, resolução de problemas e aprendizado constante.
+
+---
+
+## 📚 Atualmente Estudando
+
+- Machine Learning
+- Data Analytics
+- Engenharia de Dados
+- Arquitetura de Software
+- Inteligência Artificial aplicada à Engenharia
+
+## 📫 Contato
+
+📧 paulojeanalves@gmail.com
+
+💼 LinkedIn  
+linkedin.com/in/paulojeanalvesdasilva
+
+🐙 GitHub  
+github.com/Milhousepaulojean
